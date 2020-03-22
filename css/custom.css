@@ -1,0 +1,132 @@
+ul{
+display: flex;
+justify-content: flex-end;
+margin: 0;
+padding: 0;
+list-style-type: none;
+}
+
+ul.list li a {
+display: inline-block;
+width: 30px;
+height: 30px;
+border-radius: 100px;
+text-align: center;
+color: #fff;
+padding: 5px;
+}
+
+.ime {
+width: 80%;
+height: 250px;
+float: right;
+margin-top: 40px;
+}
+
+.ime {
+vertical-align: middle;
+border-style: none;
+}
+
+
+ul li a.fa.fa-facebook {
+background-color: blue;
+}
+
+
+ul li a.fa.fa-twitter {
+background-color: skyblue;
+}
+
+
+
+ul.list li a.fa.fa-google-plus {
+background-color: red;
+}
+
+ul.list li a.fa.fa-pinterest-p {
+background-color: pink;
+}
+
+ul li a{
+display: inline-block;
+width: 30px;
+height: 30px;
+border-radius: 100px;
+text-align: center;
+color: #fff;
+padding: 5px;
+}
+
+
+
+.jumbotron{
+background-color: black;
+}
+
+
+
+.red{
+color: red;
+}
+
+
+
+.commentform-area {
+
+width: 48%;
+float: left;
+margin-right: 4%;
+	
+}
+
+
+		
+input {
+width: 100%;
+border: 1px solid ;
+padding: 12px 20px;
+margin-bottom: 20px;
+}
+	
+
+
+
+
+
+
+textarea {
+width: 100%;
+	
+} 
+
+
+.footer {
+background-color: black;
+padding-left: 15px;
+}
+
+
+		
+
+.jumbotron {
+padding: 2rem 1rem;
+margin-bottom: 2rem;
+background-color: black;
+border-radius: .3rem;
+
+}
+button textarea {
+margin: 0;
+font-family: inherit;
+font-size: inherit;
+line-height: inherit;
+}
+
+
+button {			
+margin-top: 20px;
+float: right;
+}
+			
+	
